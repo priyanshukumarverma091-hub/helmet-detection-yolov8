@@ -1,0 +1,4 @@
+ultralytics
+roboflow
+inference-sdk
+python-dotenv
