@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Datasets & downloads
+helmet-1/
+*.zip
+
+# Model weights & training runs
+*.pt
+runs/
+
+# OS
+.DS_Store
